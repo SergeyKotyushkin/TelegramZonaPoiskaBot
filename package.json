@@ -1,0 +1,14 @@
+{
+    "name": "ZonaPoiskaBot",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "index.js"
+    },
+    "dependencies": {
+        "telegram-node-bot": "^3.0.0",
+        "isnumeric": "",
+        "jquery": "",
+        "mysql": "",
+        "dateformat": ""
+    }
+}
